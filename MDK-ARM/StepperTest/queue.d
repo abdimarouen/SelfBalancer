@@ -1,0 +1,15 @@
+steppertest\queue.o: ..\Middlewares\Third_Party\FreeRTOS\Source\queue.c
+steppertest\queue.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+steppertest\queue.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+steppertest\queue.o: ..\Middlewares\Third_Party\FreeRTOS\Source\include\FreeRTOS.h
+steppertest\queue.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+steppertest\queue.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+steppertest\queue.o: ../Inc/FreeRTOSConfig.h
+steppertest\queue.o: ..\Middlewares\Third_Party\FreeRTOS\Source\include\projdefs.h
+steppertest\queue.o: ..\Middlewares\Third_Party\FreeRTOS\Source\include\portable.h
+steppertest\queue.o: ..\Middlewares\Third_Party\FreeRTOS\Source\include\deprecated_definitions.h
+steppertest\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+steppertest\queue.o: ..\Middlewares\Third_Party\FreeRTOS\Source\include\mpu_wrappers.h
+steppertest\queue.o: ..\Middlewares\Third_Party\FreeRTOS\Source\include\task.h
+steppertest\queue.o: ..\Middlewares\Third_Party\FreeRTOS\Source\include\list.h
+steppertest\queue.o: ..\Middlewares\Third_Party\FreeRTOS\Source\include\queue.h
